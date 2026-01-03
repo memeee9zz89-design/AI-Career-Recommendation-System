@@ -9,7 +9,7 @@ public class CareerRecommendation {
 
         if (GPA >= 4.5) {
             System.out.println("Recommended Career: Software Engineer");
-        } else if (GPA >= 3) {
+        } else if (GPA >= 3.8) {
             System.out.println("Recommended Career: Data Analyst");
         } else {
             System.out.println("Recommended Career: IT Support");
